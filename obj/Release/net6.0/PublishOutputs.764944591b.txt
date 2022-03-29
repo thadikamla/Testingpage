@@ -1,0 +1,7 @@
+E:\Azurepipelineproject\WebApplicationazure\obj\Release\net6.0\PubTmp\Out\WebApplicationazure.exe
+E:\Azurepipelineproject\WebApplicationazure\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Azurepipelineproject\WebApplicationazure\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Azurepipelineproject\WebApplicationazure\obj\Release\net6.0\PubTmp\Out\WebApplicationazure.dll
+E:\Azurepipelineproject\WebApplicationazure\obj\Release\net6.0\PubTmp\Out\WebApplicationazure.deps.json
+E:\Azurepipelineproject\WebApplicationazure\obj\Release\net6.0\PubTmp\Out\WebApplicationazure.runtimeconfig.json
+E:\Azurepipelineproject\WebApplicationazure\obj\Release\net6.0\PubTmp\Out\WebApplicationazure.pdb
